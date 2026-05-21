@@ -215,14 +215,6 @@ export default function About() {
             <p className="text-sm md:text-base text-white/80 font-medium leading-relaxed">
               Kingshaus® has been successfully evaluated by ICC-ES, the leading agency for building product code compliance in the United States, with over ninety years of expertise.
             </p>
-            <div className="pt-4">
-              <Link
-                href="/about"
-                className="bg-white text-brand-green px-8 py-4 rounded-full font-bold text-sm hover:bg-brand-cream transition-colors shadow-md inline-block"
-              >
-                Read the report
-              </Link>
-            </div>
           </div>
 
           <div className="flex justify-center lg:justify-end">
