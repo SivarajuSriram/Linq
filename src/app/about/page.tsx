@@ -217,7 +217,7 @@ export default function About() {
             </p>
             <div className="pt-4">
               <Link
-                href="#"
+                href="/about"
                 className="bg-white text-brand-green px-8 py-4 rounded-full font-bold text-sm hover:bg-brand-cream transition-colors shadow-md inline-block"
               >
                 Read the report
